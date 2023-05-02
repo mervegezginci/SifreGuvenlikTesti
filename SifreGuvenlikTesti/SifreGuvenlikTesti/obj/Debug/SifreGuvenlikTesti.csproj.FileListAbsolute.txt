@@ -1,0 +1,8 @@
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\bin\Debug\SifreGuvenlikTesti.exe.config
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\bin\Debug\SifreGuvenlikTesti.exe
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\bin\Debug\SifreGuvenlikTesti.pdb
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\obj\Debug\SifreGuvenlikTesti.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\obj\Debug\SifreGuvenlikTesti.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\obj\Debug\SifreGuvenlikTesti.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\obj\Debug\SifreGuvenlikTesti.exe
+C:\Users\Lenovo\Desktop\SifreGuvenlikTesti\SifreGuvenlikTesti\obj\Debug\SifreGuvenlikTesti.pdb
