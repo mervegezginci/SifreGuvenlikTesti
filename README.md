@@ -1,8 +1,6 @@
 # SifreGuvenlikTesti
 Guvenlik Testi
 
-Şifre güvenlik testi programı yazılacak
-
 Boşluk içermesi istenmeyen, şifre olarak girilen bir karakter dizininin içerisinde yer alan büyük harf, küçük harf, rakam ve sembol sayısı bulunacaktır. 
 
 Puanlama da aşağıdakiler esas alınacaktır.
